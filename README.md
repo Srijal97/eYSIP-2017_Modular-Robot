@@ -1,5 +1,8 @@
 # eYSIP-2017_Modular-Robot
 A modular robot largely based of Alberto's [Dtto:Modular Robot](https://hackaday.io/project/9976-dtto-explorer-modular-robot), with modifications to expand its sensing and autonomous decision making capabilities. 
+
+Check out the wiki for a detailed documentation!
+
 ## Project Log
 * ### Week 1: 23/05/2017 to 28/05/2017
      - Did some research on existing Modular Robots and planned our approach.
